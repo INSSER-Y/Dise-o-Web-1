@@ -1,0 +1,35 @@
+#cabecera { 
+	height: 10%; 
+	background-color: lightblue; 
+	} 
+#nav { 
+	height: 5%; 
+	background-color: lightgray; 
+	} 
+#principal { 
+	display: flex; 
+	align-items: stretch; 
+	}
+#contenido {
+	width: 80%; 
+	background-color: lemonchiffon; 
+	min-height: 80%; 
+	} 
+#aside { 
+	width: 20%; 
+	background-color:lightsalmon; 
+	min-height: 80%; 
+	} 
+#pie{ 
+	background-color: lightgreen; 
+	height: 5%; 
+	}
+p{
+	color:blue;
+	font-family:Verdana;
+	text-align:center;
+	}
+body{
+	background-color:black;
+	color:red;
+}
